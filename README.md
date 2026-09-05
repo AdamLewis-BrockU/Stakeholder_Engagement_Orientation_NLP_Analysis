@@ -5,6 +5,15 @@ Created by Adam Lewis. Includes jupyter notebooks (.ipynb files) written in pyth
 ---
 
 
+# **NOTES:**
+1) The software I used to create these notebooks is Visual Studio Code.
+2) If you want to download a jupyter notebook, please also download the MyPackages.py file. This stores all the packages used for each analysis.
+3) If you want to download the Job_Postings_Stakeholder_Engagement.ipynb, you must also download the dataset to your computer. Please follow the link https://www.kaggle.com/datasets/promptcloud/indeed-job-posting-dataset to the dataset file and download it from Kaggle. Then, replace the file computer destination in pd.read_csv("C:\BROCK U COURSE DOCS\DataSets\marketing_sample_for_trulia_com-real_estate__20190901_20191031__30k_data.csv") with your own dataset file destination stored on your own computer. For example, if you send the dataset to your desktop, then it would be pd.read_csv("C:\Users\AdamD\Desktop\marketing_sample_for_trulia_com-real_estate__20190901_20191031__30k_data.csv).
+
+
+---
+
+
 # **10K_Filing_Stakeholder_EngagementOrientation.ipynb**
 
 ### **Data Analysis Steps:**
